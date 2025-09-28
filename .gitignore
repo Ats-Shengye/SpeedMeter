@@ -1,0 +1,55 @@
+# Flutter/Dart build files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+
+# Android build files
+android/build/
+android/.gradle/
+android/gradlew
+android/gradlew.bat
+android/gradle/
+android/local.properties
+
+# APK and AAB files
+*.apk
+*.aab
+*.dex
+
+# Claude settings
+.claude/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing files
+*.jks
+*.keystore
+key.properties
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+.tmp/
+
+# iOS (if applicable)
+ios/build/
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Web (if applicable)
+web/build/
